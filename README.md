@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akul Bharti</h1>
 <h3 align="center">A Passionate for Machine Learning and Artificial Intelligence from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akul990" alt="akul990" /> </p>
+
 
 - 🔭 I’m currently working on **pdftoAudiobook**
 
@@ -27,3 +27,6 @@
 <a href="https://instagram.com/bharti.akul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bharti.akul" height="30" width="30" /></a>
 <a href="https://www.behance.net/akul990" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="akul990" height="30" width="30" /></a>
 </p>
+<br/>
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akul990" alt="akul990" /> </p>
